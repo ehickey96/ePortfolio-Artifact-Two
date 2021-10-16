@@ -17,7 +17,7 @@ The following rules and dependancies have been inforced
 
 1. Cruises must have a ship, and only one ship
     1. Ships must be in service, and not have another cruise at that time 
-    2. The total cost of the cruise is calculated by: Base departure cost (*ship*) + (cost per mile (*ship*) * total miles (*cruise*)) + additional cruise cost (*cruise)
+    2. The total cost of the cruise is calculated by: Base departure cost (*ship*) + (cost per mile (*ship*) * total miles (*cruise*)) + additional cruise cost (*cruise*)
     3. The profit from each room type is calculated as follows: additional room fees (*cruise*) + price of specific room type (*ship*)
     4. Cruise income is the profit of each room type (*cruise*) * number of booked rooms of each type (*cruise*)
     5. Net profit is Cruise income * cruise total cost
